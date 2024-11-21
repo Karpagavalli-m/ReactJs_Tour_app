@@ -17,7 +17,7 @@ const Content = () => {
        <Row xs={1} lg={4} className="g-4">
        <Col>
           <Card>
-            <Card.Img variant="top" src={require("./images/Santorini.jpeg")} 
+            <Card.Img variant="top" src={require("./Santorini.jpeg")} 
             width="100"
             height="300"/>
             <Card.Body>
@@ -46,7 +46,7 @@ const Content = () => {
         </Col>
         <Col>
           <Card>
-            <Card.Img variant="top" src={require("./images/China.jpeg")} 
+            <Card.Img variant="top" src={require("./China.jpeg")} 
             width="100"
             height="300"/>
             <Card.Body>
@@ -76,7 +76,7 @@ const Content = () => {
         </Col>
         <Col>
           <Card>
-            <Card.Img variant="top" src={require("./images/Paris.jpeg")} 
+            <Card.Img variant="top" src={require("./Paris.jpeg")} 
             width="100"
             height="300"/>
             <Card.Body>
@@ -106,7 +106,7 @@ const Content = () => {
         </Col>
         <Col>
           <Card>
-            <Card.Img variant="top" src={require("./images/Korea4.jpg")} 
+            <Card.Img variant="top" src={require("./Korea4.jpg")} 
             width="100"
             height="300"/>
             <Card.Body>
