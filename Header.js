@@ -16,7 +16,7 @@ const Header = () => {
         width={40}
         height={40}
         alt="10x10"
-        src={require('./images/tour.jpeg')}
+        src={require('./tour.jpeg')}
         roundedCircle
         className='me-3 my-1'
       />
